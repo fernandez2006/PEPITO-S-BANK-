@@ -1,0 +1,29 @@
+
+.carousel-container {
+    max-height: 500px;
+    overflow: hidden;
+  }
+  
+  .carousel-item img {
+    object-fit: cover;
+    max-height: 500px;
+  }
+  
+  .contact-section {
+    background-color: grey;
+    color: white;
+  }
+  
+  .footer {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
